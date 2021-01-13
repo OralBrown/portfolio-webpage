@@ -1,13 +1,19 @@
 h1 {
-    color:blueviolet
+    color:blueviolet;
     text-align: center;
+    font-size: 30px
 }
 
 h2 {
-    font-style:italic
+    font-style:italic;
     text-align: center;
+    font-size: 30px
 }
-
+h3 {
+    font-style: italic;
+    text-align: center;
+    font-size: 30px;
+}
 p {
     font-family: Arial;
 }
